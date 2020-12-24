@@ -2,6 +2,7 @@ class employeewage
 {
 	public static void main(String[] args)
 	{
+		//Check wheather employee is present or absent
 		//variable
 		int isPresent=1;
 		//computation
