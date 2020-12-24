@@ -7,6 +7,7 @@ public class employeewage
 
 	public static void main(String[] args)
 	{
+		//variables
 
 		int isPresent=1;
 
@@ -14,6 +15,7 @@ public class employeewage
 		int salary=0;
 		int empHr=0;
  2_DailyEmployeeWage_UC2
+	 	//computation
 		int res=(int)(Math.random()*10)%2;
 		if(res==isPresent)
 		{
@@ -21,12 +23,13 @@ public class employeewage
 
 			empHr=0;
 2_DailyEmployeeWage_UC2
-
+		//computation
 		int isfulltime=1;
 		int isparttime=2;
 		int empRatePerHr=20;
 		int empHr=0;
 		int salary=0;
+		//computation
 		int res=(int)(Math.random()*10)%3;
 		if(res==isfulltime)
 		{
