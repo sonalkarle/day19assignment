@@ -31,6 +31,7 @@ public class employeewage
 				empHr=0;
 			
 			}
+			//computation
 			salary=(empHr*EMP_RATE_PER_HR);
 			totalsalary += salary;
 			System.out.println("Salary is "+salary);
