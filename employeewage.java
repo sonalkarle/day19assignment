@@ -1,4 +1,4 @@
-public class employeewage
+public class employeeWage
 {
 	//Calculating wages till condition of total working hours or days per month reached
 	public static final int FULL_TIME=1;
